@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=markIV747.markIV747&left_color=white&right_color=maroon&left_text=Visitors" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=markIV747.markIV747&left_color=grey&right_color=blue&left_text=Visitors" />
  
 
 
